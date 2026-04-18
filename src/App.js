@@ -78,6 +78,7 @@ function App() {
                     </Card.Footer>
                     <Card.Footer>
                       <small className="text-muted">{news.date} {news.time}</small>
+                       <small className="text-muted">this is check for opal AI</small>
                     </Card.Footer>
                   </Card>
                 </Col>
